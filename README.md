@@ -2,7 +2,7 @@
 
 ## Background
 
-In this project, we will utilize Python requests, APIs, and JSON traversals to answer a fundamental question: "What is the weather like as we approach the equator?"
+Utilize Python requests, APIs, and JSON traversals to answer a fundamental question: "What is the weather like as we approach the equator?"
 
 ## Part 1: WeatherPy
 
